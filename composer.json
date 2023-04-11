@@ -22,7 +22,7 @@
         "psr/simple-cache": "^3.0",
         "monolog/monolog": "^2.0",
         "symfony/cache": "^5.0",
-        "symfony/http-foundation": "^5.0"
+        "symfony/http-foundation": "^6.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
